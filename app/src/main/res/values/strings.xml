@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_button_1">Get Hello from Constantes One</string>
+    <string name="text_button_2">Get Hello from Constantes Two</string>
+</resources>
